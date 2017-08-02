@@ -1,4 +1,4 @@
-package lt.codinginaction.ccp.checkstyle;
+package net.codinginaction.ccp.checkstyle;
 
 public final class CheckstyleDemo {
 
